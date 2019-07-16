@@ -5,7 +5,7 @@ Send folders to Servers by Sftp.
 ### Installation Guide
 
 ```
-(sudo) npm install @tbj/chaos -g
+(sudo) npm install easy-sftp -g
 ```
 
 ### Command List
