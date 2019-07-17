@@ -61,8 +61,8 @@ program
 
 if (!isCmd) {
   logOne('\n*************************************\n');
-  logOne('* author: zhishui\n');
-  logOne('* email: zhishui@tongbanjie.com\n');
+  logOne('* author: Done86\n');
+  logOne('* email: 1075296345@qq.com\n');
   logOne('* website: http://newblog.tecclass.cn');
   logOne('\n*************************************\n');
 }
